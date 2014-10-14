@@ -1,0 +1,1 @@
+This application demonstrates simple chat application using Netty NIO. You need to start the server followed by multiple instances of clients. Thus, you can simulate a chat-room with this application.
